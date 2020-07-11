@@ -1,0 +1,174 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: #D7D7D7;   
+}
+
+.container {
+    display: flex;
+    background-color: white;
+    flex-direction: row;
+    align-items: center;
+}
+
+.logo {
+    height: 40px;
+    margin-top: 15px;
+    margin-left: 50px;   
+}
+
+.pesquisa {
+    background-color: #D7D7D7;
+    margin-left: 100%;
+    text-align: center;
+    margin-left: 300px;
+    border: none;
+}
+
+.navegador {
+    height: 30px;
+    width: 30px;
+    margin-top: 15px;
+    margin-left: 400px;
+}
+
+.msg_direta {
+    height: 30px;
+    width: 30px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.bussola {
+    height: 30px;
+    width: 30px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.coracao {
+    height: 30px;
+    width: 30px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.foto {
+    height: 30px;
+    width: 30px;
+    margin-top: 15px;
+    border-radius: 50px;
+    margin-left: 15px;
+}
+
+.publicacao {
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    margin-left: 15%;
+    margin-top: 50px;
+    margin-bottom: 5px;
+    
+}
+
+.caixa1 {
+    background-color: white;
+    display: flex;
+    flex-direction: row; 
+    width: 300px;
+    flex-wrap: wrap;
+}
+
+.caixa2 {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+
+.perfil {
+    height: 40px;
+    width: 40px;
+    border-style: groove;
+    border-color: #ff00ea;
+    border-radius: 40px;
+    margin-left: 15px;
+    margin-top: 15px;   
+}
+
+.perfil2 {
+    height: 40px;
+    width: 40px;
+    border-style: groove;
+    border-color: #ff00ea;
+    border-radius: 40px;
+    margin-left: 15px;
+      
+}
+.nome {
+    font-weight: bold;
+    margin-top: 25px;
+    margin-left: 15px;
+}
+
+.mais {
+    height: 17px;
+    margin-left: 50px;
+    margin-right: 10px;
+    margin-top: 25px;
+}
+
+.nome2 {
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.texto {
+    text-align: justify;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.coracao1 {
+    height: 30px;
+    width: 30px;
+    margin-left: 10px;
+}
+
+.comente1 {
+    height: 30px;
+    width: 30px;
+}
+
+.msg_direta1 {
+    height: 30px;
+    width: 30px;
+}
+
+.save {
+    height: 60px;
+    width: 60px;
+    margin-left: 120px;
+    margin-bottom: -15px;
+}
+
+.comment {
+    display: flex;
+    flex-direction: row;
+}
+
+.add {
+    margin-left: 15px;
+    border: none;
+    height: 40px;
+}
+
+.publicar {
+    margin-top: 9px;
+    margin-left: 47px;
+    color: lightblue;
+}
